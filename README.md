@@ -1,12 +1,12 @@
 # **FEMTO** - A Certificate Management Platform
 
-### Problem Statement
+## Problem Statement
   * How can we create a digital proof that a digital asset has been certified by an authorised organisation and issued to the right person?
   * How can anybody around the world verify the authenticity of a particular digital asset without having to rely on a Certralized Government Databases?
 
-### Solution
+## Solution
 ### Our Product is **FEMTO**, A platform that helps in faster verification of documents.
-#### The platform has 3 components
+### The platform has 3 components
   1. Issuer
   2. User
   3. Verifier
