@@ -4,6 +4,6 @@
   1. Issuer
   2. User
   3. Verifier
-#### Project Interface - Issuer Platform
+### Project Interface - Issuer Platform
 ![Issues-1](https://user-images.githubusercontent.com/56193559/183245740-664398ad-2251-4e2f-a301-6fe9d848a4a3.jpeg)
 ![Issue-2](https://user-images.githubusercontent.com/56193559/183245743-cb6ff978-ebd0-4a4f-82ee-8c17adb5790a.jpeg)
